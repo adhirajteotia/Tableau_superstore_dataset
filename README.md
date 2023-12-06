@@ -1,5 +1,5 @@
 # Tableau_superstore_dataset
-**Overview Readme for Healthcare Analytics Capstone Project**
+**Overview for Healthcare Analytics Project**
 
 Project Summary:
 This Tableau-based Capstone Project, titled "Healthcare Analytics," aims to provide insightful visualizations and analysis of a healthcare dataset containing patients' blood pressure, BMI, glucose, insulin, and diabetes information for individuals aged 20 and above.
