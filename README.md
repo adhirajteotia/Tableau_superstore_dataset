@@ -1,8 +1,8 @@
 # Tableau_superstore_dataset
-**Overview for Healthcare Analytics Project**
+**Project Overview - Superstore Sales Performance Capstone Project**
 
-Project Summary:
-This Tableau-based Capstone Project, titled "Healthcare Analytics," aims to provide insightful visualizations and analysis of a healthcare dataset containing patients' blood pressure, BMI, glucose, insulin, and diabetes information for individuals aged 20 and above.
+Objective:
+This project focuses on analyzing and presenting the sales performance of the Superstore using Tableau and the provided Superstore.xls dataset. The aim is to create a comprehensive dashboard showcasing key sales metrics and trends.
 
 Conclusion:
-This Project provides a comprehensive exploration of healthcare data, offering meaningful insights through visually appealing Tableau dashboards and a well-structured story. The project not only demonstrates technical proficiency but also showcases an understanding of effective data communication and visualization principles.
+   - This GitHub repository houses a comprehensive Tableau-based analysis of Superstore sales data, providing valuable insights into key metrics and trends. The well-organized structure, clear guidelines, and thoughtful visualizations ensure an informative exploration of the dataset.
